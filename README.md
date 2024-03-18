@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Buenas, soy Iván, un estudiante de Desarrollo de Aplicaciones Web, actualmente estoy en Primer año y estoy con muchas ganas de aprender más sobre este mundo
+Buenas, soy Iván, un estudiante de Desarrollo de Aplicaciones Web, actualmente estoy en Primer año y estoy con muchas ganas de aprender más sobre este mundillo
 <!--
 **IvanPerezRosa/IvanPerezRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
