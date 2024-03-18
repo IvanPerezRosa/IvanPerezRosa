@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hola buenas, Soy Ivan👋
 
-Buenas, soy Iván, un estudiante de Desarrollo de Aplicaciones Web, actualmente estoy en Primer año y estoy con muchas ganas de aprender más sobre este mundillo
+Soy Iván, un estudiante de Desarrollo de Aplicaciones Web, actualmente estoy en Primer año y estoy con muchas ganas de aprender más sobre este mundillo.
+
+
+Estos son los Lenguajes que uso actualmente:
+- Java
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- C++
+
+
 <!--
 **IvanPerezRosa/IvanPerezRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
