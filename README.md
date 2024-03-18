@@ -1,4 +1,6 @@
 
+![Banner][ivan perez rosa.png]
+
 ### Hola buenas, Soy Ivan👋
 
 Soy Iván, un estudiante de Desarrollo de Aplicaciones Web, actualmente estoy en Primer año y estoy con muchas ganas de aprender más sobre este mundillo.
