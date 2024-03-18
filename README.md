@@ -1,5 +1,5 @@
 
-![Banner](banner.png)
+<img src="relative/path/in/repository/to/image.svg" width="1024"/>
 
 ### Hola buenas, Soy Ivan👋
 
