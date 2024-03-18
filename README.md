@@ -1,5 +1,5 @@
 
-![Banner][ivan perez rosa.png]
+![Banner](ivan perez rosa.png)
 
 ### Hola buenas, Soy Ivan👋
 
