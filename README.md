@@ -6,13 +6,14 @@
 Soy Iván, un estudiante de Desarrollo de Aplicaciones Web, actualmente estoy en Primer año y estoy con muchas ganas de aprender más sobre este mundillo.
 
 
-Estos son los Lenguajes que uso actualmente:
+Estos son los Lenguajes y Herramientas que uso actualmente:
 - Java
 - JavaScript
-- HTML
-- CSS
-- MySQL
+- HTML5
+- CSS3
+- SQL
 - C++
+- SpringBoot
 
 
 <!--
